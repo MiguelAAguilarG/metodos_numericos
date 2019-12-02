@@ -1,0 +1,14 @@
+1. Multiples opciones
+1.1. Suma de matrices (incluye resta de matrices)
+1.2. Producto de matrices (incluye que puedan ser matrices cuadradas y matriz por vector)
+1.3. Transpuesta de una matriz
+1.4. Traza de una matriz
+1.5. Factorizacion Cholesky
+2. Sustitucion hacia atras
+3. Sustitucion hacia adelante
+4. Eliminación gaussiana
+5. Factorización LU
+6. Algoritmo de Jacobi
+7. Algoritmo de Gauss - Seidel
+8. Algoritmo SOR
+9. w multiples Sor
